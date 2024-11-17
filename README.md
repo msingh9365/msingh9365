@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish 
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning spring
+- 👀 I’m a experienced Data Engineer
+- 🌱 I’m currently learning Docker and Airflow
 
 
 <!---
